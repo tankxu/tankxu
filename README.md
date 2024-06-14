@@ -2,7 +2,13 @@
 
 A **Web3 Builder** starting from 2022.
 
-Professional roles: Product Manager/Lead, Company Partner, Head of Market Growth, Organizer of Major Hackathons, Incubator Mentor, DevRel.
+Professional roles: 
+- Product Manager/Lead
+- Company Partner
+- Head of Market Growth
+- Organizer of Major Hackathons
+- Incubator Mentor
+- DevRel
 
 -----
 
